@@ -77,3 +77,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.db
+*.pdb
+addressHook/Release/addressHook.tlog/CL.write.1.tlog
+*.ipdb
+Release/Release.7z
